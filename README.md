@@ -1,10 +1,10 @@
-# Monte_Carlo_pi
+# Algorytm Monte Carlo
 Algorytm Monte Carlo używany do oszacowania liczby pi polega na losowaniu 
 punktów w kwadracie jednostkowym i sprawdzaniu ile z nich znajduje się wewnątrz 
 ćwiartki koła wpisanego w ten kwadrat. Stosunek liczby punktów w tym kole do liczby wszystkich losowych punktów pomnożony przez cztery daje nam szacowaną
 wartość liczby pi.
 
-# Opis napisanych funkcji
+# Opis funkcji
 Draw_coordinates(n) - Generuje n losowych współrzędnych (x, y) w przedziale [0, 1]
 PI(coordinates) - Przyjmuje zbiór współrzędnych i zwraca estymowaną wartość liczby 
 pi na podstawie punktów znajdujących się w kole jednostkowym
