@@ -1,3 +1,4 @@
+## Algorytm napisany na zajęcia akademickie Inteligencja Obliczeniowa
 # Algorytm Monte Carlo
 Algorytm Monte Carlo używany do oszacowania liczby pi polega na losowaniu 
 punktów w kwadracie jednostkowym i sprawdzaniu ile z nich znajduje się wewnątrz 
